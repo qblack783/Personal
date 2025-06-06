@@ -1,0 +1,25 @@
+Personal Peom 
+AM=Person("AM",["magnetic","mysterious","unforgettable"])
+# Real Memories
+us.add_memory(Memory("You tasted The Shed because I took you there", "LL"))
+us.add_memory(Memory("Time on Park Ave weren’t about chatiing but being with you in anyway", "NY"))
+us.add_memory(Memory("Blink, Marriott, Hells Kitchen, Huntington")
+us.add_memory(Memory("The Arlo night where the curtains stayed shut, and you and I went to traveled to space", "Nomad"))
+
+# Lies that built the silence
+us.add_lie("Missed FaceTimes blamed on bad service esp on Thursdays")
+us.add_lie("‘On vacation, sneakng out of a resturant to talk to me")
+us.add_lie("Feeling the vibes but too afriad to be")
+
+# What I’ve come to admit
+us.add_truth("You never really stopped choosing him—you just paused")
+us.add_truth("Loving someone doesn’t mean they’re yours")
+us.add_truth("We were real. But he is using you-taking you to FL and Greece for what")
+us.add_truth("If he ever knew what happened... it would break him")
+
+# What I will do for you; for us
+us.add_willingly("Share my love for your culture and be involved in your religion)
+us.add_willingly("Gym with you and help you balance a healthy lifestyle)
+us.add_willingly("Fall in love with you everyday, every second for the rest of my life)
+
+Your name=("a victorious shining star")
